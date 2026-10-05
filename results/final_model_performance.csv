@@ -1,0 +1,7 @@
+Outcome,Model,RMSE,MAE,R2_test,Unit
+Utility-scale PV capacity,Linear Regression,8372,4656,0.838,MW
+Utility-scale PV capacity,Random Forest,4475,2096,0.954,MW
+Utility-scale PV capacity,XGBoost,2994,1212,0.979,MW
+Net lifecycle CO2e,Linear Regression,12.8,8.4,0.646,Mt CO2e
+Net lifecycle CO2e,Random Forest,4.77,2.3,0.951,Mt CO2e
+Net lifecycle CO2e,XGBoost,2.84,1.43,0.983,Mt CO2e
