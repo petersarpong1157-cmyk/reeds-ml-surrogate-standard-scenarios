@@ -35,3 +35,6 @@ Open
 
 **Notes:**  
 The package contains derived result tables, code, metadata, and figures. It does not redistribute the raw NREL Standard Scenarios CSV files.
+
+**Published Zenodo DOI:**  
+10.5281/zenodo.23170134
