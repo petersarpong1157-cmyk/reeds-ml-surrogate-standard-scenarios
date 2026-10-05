@@ -28,7 +28,7 @@ ReEDS; machine learning; surrogate modeling; XGBoost; capacity expansion; scenar
 - GitHub repository: https://github.com/petersarpong1157-cmyk/reeds-ml-surrogate-standard-scenarios
 
 **License:**  
-Select before publication. Do not leave this ambiguous on the final public release.
+MIT
 
 **Access right:**  
 Open
