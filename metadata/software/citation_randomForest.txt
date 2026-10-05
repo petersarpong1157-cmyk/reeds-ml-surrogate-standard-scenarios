@@ -1,0 +1,18 @@
+To cite package ‘randomForest’ in publications use:
+
+  Liaw A, Wiener M (2002). “Classification and Regression by
+  randomForest.” _R News_, *2*(3), 18-22.
+  <https://CRAN.R-project.org/doc/Rnews/>.
+
+A BibTeX entry for LaTeX users is
+
+  @Article{,
+    title = {Classification and Regression by randomForest},
+    author = {Andy Liaw and Matthew Wiener},
+    journal = {R News},
+    year = {2002},
+    volume = {2},
+    number = {3},
+    pages = {18-22},
+    url = {https://CRAN.R-project.org/doc/Rnews/},
+  }
