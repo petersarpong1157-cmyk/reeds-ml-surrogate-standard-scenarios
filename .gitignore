@@ -1,0 +1,16 @@
+# Raw source data (download from NREL/OEDI)
+data/raw/
+*.zip
+
+# R temporary/history files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+
+# Optional large fitted model files
+*.rds
