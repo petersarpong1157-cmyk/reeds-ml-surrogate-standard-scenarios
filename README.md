@@ -44,6 +44,13 @@ Prediction targets:
 
 Across 20 balanced repeated scenario-combination holdouts, mean XGBoost R² was 0.976 for PV capacity and 0.972 for net lifecycle CO2e.
 
+
+## Archived release and DOI
+
+Zenodo archive DOI: [10.5281/zenodo.23170134](https://doi.org/10.5281/zenodo.23170134)
+
+This DOI identifies the archived reproducibility release associated with this repository.
+
 ## Data source
 
 The repository does **not** redistribute the raw NREL Standard Scenarios files.
