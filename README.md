@@ -110,4 +110,4 @@ This repository supports reproduction of the published surrogate-model experimen
 
 ## License
 
-A software/content license has intentionally not been assigned in this starter package. Select the license you want before public release.
+The analysis code and reproducibility package are released under the **MIT License**. The raw NREL Standard Scenarios data are not redistributed and remain subject to the terms of their original source.
