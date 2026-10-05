@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or reproducibility package, please cite the associated paper."
+title: "ReEDS Machine Learning Surrogate Reproducibility Package"
+type: software
+authors:
+  - family-names: "Sarpong"
+    given-names: "Peter"
+version: "1.0.0"
+date-released: "2026-10-05"
+repository-code: "https://github.com/petersarpong1157-cmyk/reeds-ml-surrogate-standard-scenarios"
+keywords:
+  - ReEDS
+  - machine learning
+  - surrogate modeling
+  - XGBoost
+  - capacity expansion
+  - scenario analysis
+  - photovoltaic capacity
+  - carbon emissions
