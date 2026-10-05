@@ -1,0 +1,19 @@
+To cite package ‘xgboost’ in publications use:
+
+  Chen T, He T, Benesty M, Khotilovich V, Tang Y, Cho H, Chen K,
+  Mitchell R, Cano I, Zhou T, Li M, Xie J, Lin M, Geng Y, Li Y, Yuan J
+  (2025). _xgboost: Extreme Gradient Boosting_.
+  doi:10.32614/CRAN.package.xgboost
+  <https://doi.org/10.32614/CRAN.package.xgboost>, R package version
+  1.7.11.1, <https://CRAN.R-project.org/package=xgboost>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {xgboost: Extreme Gradient Boosting},
+    author = {Tianqi Chen and Tong He and Michael Benesty and Vadim Khotilovich and Yuan Tang and Hyunsu Cho and Kailong Chen and Rory Mitchell and Ignacio Cano and Tianyi Zhou and Mu Li and Junyuan Xie and Min Lin and Yifeng Geng and Yutian Li and Jiaming Yuan},
+    year = {2025},
+    note = {R package version 1.7.11.1},
+    url = {https://CRAN.R-project.org/package=xgboost},
+    doi = {10.32614/CRAN.package.xgboost},
+  }
