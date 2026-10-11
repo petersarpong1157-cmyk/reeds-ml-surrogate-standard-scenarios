@@ -80,12 +80,18 @@ These values were reported for the original primary split and are distinct from 
 
 ## Citation and archival provenance
 
-The existing repository includes `CITATION.cff`, an MIT license, and a prior Zenodo archive DOI: https://doi.org/10.5281/zenodo.23170134. **Check whether that archived release includes this update before citing it as the archive for the revised version.** If not, publish a new versioned release/archive and use its appropriate DOI.
+This repository contains the reproducibility materials for the study *Validation-Unit Choice and Generalization Reliability in Machine-Learning Surrogates of Electricity-System Scenarios: Evidence from NREL ReEDS*.
 
-## Manuscript venue
+The repository includes the R analysis code, exported validation results, supporting figures, `CITATION.cff`, and an MIT license.
 
-The latest author-prepared manuscript draft is being tailored for *Energy Sources, Part B: Economics, Planning, and Policy*. This does **not** imply journal acceptance or publication.
+**Latest archived release:** v3.5.5 — ReEDS Machine Learning Surrogate Reproducibility Package.
 
-## License and data rights
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.23306207
 
-Retain the repository's existing MIT license for author-created code. The NREL data are not redistributed here; users must obtain them directly under the data source's own terms.
+**Previous archived release:** https://doi.org/10.5281/zenodo.23170134
+
+The updated research materials are also available through the GitHub repository:
+
+https://github.com/petersarpong1157-cmyk/reeds-ml-surrogate-standard-scenarios
+
+The latest Zenodo release provides a version-specific identifier for citing the revised research archive. The archived file contents should be checked against the repository before claiming complete reproducibility of the analysis.
